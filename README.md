@@ -4,10 +4,9 @@
 http://www.quoteambition.com/famous-confucius-quotes/
 
 
-## install rustup.
+## install rustup
 
-https://www.shadercat.com/setting-up-a-rust-development-environment-on-windows-10/
-
+https://www.rust-lang.org/tools/install
 Your best option on Windows is the rust-init.exe installer.
 
 ```bash
