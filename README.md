@@ -8,12 +8,51 @@ http://www.quoteambition.com/famous-confucius-quotes/
 https://www.rust-lang.org/tools/install
 
 ```bash
+
+// install c++ build tools for Visual Studio 2019 from Other Tools and Frameworks section
+
 // install at least one Rust toolchain
 rustup install stable-msvc
+
 // set the default toolchain:
 rustup default stable-msvc
+
 // update
 rustup self update
 ```
+## compile and run
+
+```bash
+rustc main.rs
+./main.exe
+```
+## build system and package manager
+
+```bash
+cargo --version
+cargo new helloworld
+cd helloworld
+
+cargo new hello-rust-lang --vcs=git
+cd hello-rust-lang
+cargo build
+./target/debug/hello-rust-lang.exe
+
+// compile and run executable all in one command
+cargo run
+// to make sure code compiles with check periodically
+cargo check
+
+// release
+ cargo build --release
+```
+
 ## rust-by-example
 https://doc.rust-lang.org/stable/rust-by-example/hello.html
+
+## rust resources
+
+- `Rustup doc` for documentation
+- [Rust community](https://www.rust-lang.org/community)
+- [User Forum](https://users.rust-lang.org/)
+- [Stackoverflow Rust](https://stackoverflow.com/questions/tagged/rust)
