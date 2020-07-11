@@ -63,3 +63,4 @@ https://doc.rust-lang.org/stable/rust-by-example/hello.html
 - [Microsoft to explore using Rust](https://www.zdnet.com/article/microsoft-to-explore-using-rust/)
 - [Rust Runtime for AWS Lambda](https://github.com/awslabs/aws-lambda-rust-runtime)
 - [Hands-On Data Structures and Algorithms with Rust](https://github.com/PacktPublishing/Hands-On-Data-Structures-and-Algorithms-with-Rust)
+- [rust-cookbook](https://rust-lang-nursery.github.io/rust-cookbook/about.html)
