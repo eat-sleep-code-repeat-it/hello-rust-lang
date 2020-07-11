@@ -56,3 +56,10 @@ https://doc.rust-lang.org/stable/rust-by-example/hello.html
 - [Rust community](https://www.rust-lang.org/community)
 - [User Forum](https://users.rust-lang.org/)
 - [Stackoverflow Rust](https://stackoverflow.com/questions/tagged/rust)
+
+## references
+
+- [AWS sponsorship of the Rust project & Rust+Lambda](https://aws.amazon.com/blogs/opensource/rust-runtime-for-aws-lambda/)
+- [Microsoft to explore using Rust](https://www.zdnet.com/article/microsoft-to-explore-using-rust/)
+- [Rust Runtime for AWS Lambda](https://github.com/awslabs/aws-lambda-rust-runtime)
+- [Hands-On Data Structures and Algorithms with Rust](https://github.com/PacktPublishing/Hands-On-Data-Structures-and-Algorithms-with-Rust)
