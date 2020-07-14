@@ -65,3 +65,4 @@ https://doc.rust-lang.org/stable/rust-by-example/hello.html
 - [Hands-On Data Structures and Algorithms with Rust](https://github.com/PacktPublishing/Hands-On-Data-Structures-and-Algorithms-with-Rust)
 - [rust-cookbook](https://rust-lang-nursery.github.io/rust-cookbook/about.html)
 - [exercism](https://exercism.io/my/solutions/421be2e2256548c5a9c638e80afd90c3)
+- [rustlings](https://github.com/rust-lang/rustlings)
